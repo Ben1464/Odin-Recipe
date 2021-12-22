@@ -45,5 +45,21 @@
                 Unroll the cake, and spread the filling to within 1 inch of the edge. Roll the cake up with the filling inside. Place seam side down onto a serving plate, and refrigerate until serving. Dust with confectioners' sugar before serving.
             </p>
         </ul>   
+     <h4><b>Feedback section</b></h4>
+        <form>
+            <div>
+                <label>Name </label>
+            <input type="text" name="name" placeholder="username">
+            </div>
+            <div>
+                <label>Email</label>
+                    <input type="email" name="email">
+            </div>
+            <div>
+                <textarea name="Message" placeholder="Write your feedback..."></textarea>
+                </div>
+                <input>
+<button type="submit">Submit</button>
+            </form>
 </body>
 </html>
